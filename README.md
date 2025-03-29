@@ -6,7 +6,7 @@ This Discord bot extension adds fun and useful functionality to your server by a
 
 ## Features
 
-- **AFK Command (`^afk`):**  
+- **AFK Command (`^afk on/off`):**  
   Users can mark themselves as AFK. When someone mentions an AFK user, the bot notifies them that the user is currently AFK.
 
 - **Welcome Messages (`^welcome on/off`):**  
